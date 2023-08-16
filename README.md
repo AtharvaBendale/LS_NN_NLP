@@ -6,3 +6,5 @@ MT5 is a multilingual variant of T5 that was pre-trained on a new Common Crawl-b
 To train the model run the given notebook, fine_tuned_model.ipynb. Also please take a look at the code and upload the datasets as required by the model on the google drive. It is reccomended to run this code on google colab because of large size of pretrained model and large computation requirements. (Training 
 <hr>
 To try out the trained model completely run the notebook app.ipynb, the last cell will give a link as output, it will redirect to an interface where you can input your text and recognize the language
+<hr>
+Google drive link to pretrained model files : https://drive.google.com/drive/folders/1J8y6I-LPbG6JJ9Zd58SOjnXxvjlWHY_w?usp=drive_link .
